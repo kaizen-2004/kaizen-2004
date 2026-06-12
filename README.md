@@ -130,7 +130,7 @@
   <a href="https://www.linkedin.com/in/steve-villa-84985a267">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://steve-villa-portfolio.netlify.app/">
+  <a href="https://steve-villa-devportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:villasteve2004@gmail.com">
